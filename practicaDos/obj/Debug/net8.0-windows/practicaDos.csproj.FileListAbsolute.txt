@@ -1,0 +1,17 @@
+C:\Users\Saritmar\source\repos\practicaDos\bin\Debug\net8.0-windows\practicaDos.exe
+C:\Users\Saritmar\source\repos\practicaDos\bin\Debug\net8.0-windows\practicaDos.deps.json
+C:\Users\Saritmar\source\repos\practicaDos\bin\Debug\net8.0-windows\practicaDos.runtimeconfig.json
+C:\Users\Saritmar\source\repos\practicaDos\bin\Debug\net8.0-windows\practicaDos.dll
+C:\Users\Saritmar\source\repos\practicaDos\bin\Debug\net8.0-windows\practicaDos.pdb
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.encapsulamiento.encapsulamientoForm.resources
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.csproj.GenerateResource.cache
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.AssemblyInfoInputs.cache
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.AssemblyInfo.cs
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.csproj.CoreCompileInputs.cache
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.dll
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\refint\practicaDos.dll
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.pdb
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.genruntimeconfig.cache
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\ref\practicaDos.dll
+C:\Users\Saritmar\source\repos\practicaDos\obj\Debug\net8.0-windows\practicaDos.polimorfismo.polimorfismo.resources
