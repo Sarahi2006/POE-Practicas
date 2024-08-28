@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "StudenSystemData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StudenSystemData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudenSystemData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudenSystemData/1.0.0": {
+      "type": "project",
+      "path": "../StudenSystemData/StudenSystemData.csproj",
+      "msbuildProject": "../StudenSystemData/StudenSystemData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "StudenSystemData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Saritmar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Saritmar\\source\\repos\\Practica3Poe\\Practica3Poe.csproj",
+      "projectName": "Practica3Poe",
+      "projectPath": "C:\\Users\\Saritmar\\source\\repos\\Practica3Poe\\Practica3Poe.csproj",
+      "packagesPath": "C:\\Users\\Saritmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Saritmar\\source\\repos\\Practica3Poe\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Saritmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Saritmar\\source\\repos\\StudenSystemData\\StudenSystemData.csproj": {
+              "projectPath": "C:\\Users\\Saritmar\\source\\repos\\StudenSystemData\\StudenSystemData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

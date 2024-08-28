@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practica3Poe/1.0.0": {
+        "dependencies": {
+          "StudenSystemData": "1.0.0"
+        },
+        "runtime": {
+          "Practica3Poe.dll": {}
+        }
+      },
+      "StudenSystemData/1.0.0": {
+        "runtime": {
+          "StudenSystemData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica3Poe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudenSystemData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
